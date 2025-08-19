@@ -1,0 +1,11 @@
+com\example\jobportal\web\HomeController.class
+com\userlogin\Controller\RegisterController.class
+com\example\jobportal\config\SecurityConfig.class
+com\userlogin\model\UserRegistrationDto.class
+com\example\jobportal\user\UserServiceImpl.class
+com\userlogin\Application.class
+com\userlogin\Configuration\AppConfig.class
+com\userlogin\Service\UserService.class
+com\userlogin\Repository\UserRepository.class
+com\userlogin\model\AppUser$AppUserBuilder.class
+com\userlogin\model\AppUser.class
